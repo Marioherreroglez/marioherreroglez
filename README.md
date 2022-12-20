@@ -10,6 +10,6 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mario-herrero-gonzalez-6a0b23148/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: It is anticipated that 6G wireless networks will be based on ML, while 7G will already include hybrids of calssical and quantum computing technologies.
+- ⚡ Fun fact: It is anticipated that 6G wireless networks will be based on ML, while 7G will already include hybrids of calssical and quantum computing technologies
 
 I am always on the lookout for new and interesting projects that allow me to apply my skills and knowledge in these areas. Whether it's developing algorithms for quantum information processing, integrating data from multiple sources to improve our understanding of a system, or analyzing large datasets to extract insights and make data-driven decisions, I am always eager to learn and grow as a researcher and developer. Thank you for visiting my page and I hope you find something here that piques your interest!
